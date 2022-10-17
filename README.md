@@ -75,5 +75,6 @@ RTL realization
 ## Half adder:
 ![output]()
 ## Full adder:
+![output]()
 ### Result:
 Thus,the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified.
