@@ -63,18 +63,18 @@ RTL realization
 ### Output:
 ## Logic symbol & Truthtable:
 ## Half adder:
-![output]()
+![output](https://github.com/ragulmani936/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%203.jpg)
 ## Ful  adder:
-![output]()
+![output](https://github.com/ragulmani936/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%204.jpg)
 ### RTL
 ## Half adder:
-![output]()
+![output](https://github.com/ragulmani936/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%205.jpg)
 ## Full adder:
-![output]()
+![output](https://github.com/ragulmani936/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%206.jpg)
 ### TIMING DIAGRAM
 ## Half adder:
-![output]()
+![output](https://github.com/ragulmani936/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%207.jpg)
 ## Full adder:
-![output]()
+![output](https://github.com/ragulmani936/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%208.jpg)
 ### Result:
 Thus,the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified.
